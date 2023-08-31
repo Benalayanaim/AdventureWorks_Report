@@ -1,5 +1,6 @@
 # AdventureWorks_Report
 This visualization file showcases the goal,assits and points for this project.
+
 Data Transformation (Power Query)
 In this phase, the data is transformed and cleaned using Power Query in Power BI. 
 
